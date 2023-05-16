@@ -32,6 +32,7 @@ cd frontend
 npm start
 ```
 - Start the Spring Boot server:
+
 ```c
 Copy code
 cd backend
