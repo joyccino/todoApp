@@ -13,8 +13,28 @@ This repository contains a simple Todo App that helps you keep track of your tas
 - Backend: Spring Boot
 - Database: H2 (to be switched to MySQL)
 ### ⚙️ Installation
-- Clone the repository.
-- Navigate to the project directory.
-- Install dependencies by running npm install in the frontend directory and mvn install in the backend directory.
-- Start the frontend server with npm start and the backend server with mvn spring-boot:run.
-- Open your web browser and access the application at http://localhost:3000.
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies by running the following commands:
+4. For the frontend:
+```c
+cd frontend
+npm install
+```
+5. For the backend:
+```c
+cd backend
+mvn install
+```
+6. Start the frontend server:
+```c
+cd frontend
+npm start
+```
+7. Start the Spring Boot server:
+```c
+Copy code
+cd backend
+mvn spring-boot:run
+```
+8. Open your web browser and access the application at http://localhost:3000.
