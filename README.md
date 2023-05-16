@@ -16,25 +16,25 @@ This repository contains a simple Todo App that helps you keep track of your tas
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Install dependencies by running the following commands:
-4. For the frontend:
+- For the frontend:
 ```c
 cd frontend
 npm install
 ```
-5. For the backend:
+- For the backend:
 ```c
 cd backend
 mvn install
 ```
-6. Start the frontend server:
+- Start the frontend server:
 ```c
 cd frontend
 npm start
 ```
-7. Start the Spring Boot server:
+- Start the Spring Boot server:
 ```c
 Copy code
 cd backend
 mvn spring-boot:run
 ```
-8. Open your web browser and access the application at http://localhost:3000.
+5. Open your web browser and access the application at http://localhost:3000.
