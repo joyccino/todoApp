@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85a4e6cc-ae67-4f5b-b3a9-a7b0cfaa11b5" name="Changes" comment="back / front">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+    <list default="true" id="85a4e6cc-ae67-4f5b-b3a9-a7b0cfaa11b5" name="Changes" comment="pom update / banner added">
+      <change afterPath="$PROJECT_DIR$/backend/to-do-list/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/to-do-list/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/to-do-list/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/to-do-list/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/to-do-list/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +126,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="backend setup" />
     <MESSAGE value="back / front" />
-    <option name="LAST_COMMIT_MESSAGE" value="back / front" />
+    <MESSAGE value="pom update / banner added" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom update / banner added" />
   </component>
 </project>
