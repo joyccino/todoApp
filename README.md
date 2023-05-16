@@ -1,5 +1,5 @@
 # 😄 Todo App
-### Overview
+### 📙 Overview
 This repository contains a simple Todo App that helps you keep track of your tasks and stay organized. The frontend is built using React with Bootstrap, while the backend is developed using Spring Boot. Currently, the application is integrated with an H2 database, but we plan to switch to MySQL in the near future.
 
 ### 🚀 Features
